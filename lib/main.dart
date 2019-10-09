@@ -127,7 +127,7 @@ buildTextField(String label, String prefix, TextEditingController textControl, F
         prefixText: "$prefix"
     ),
     style: TextStyle(
-        color: Colors.amber, fontSize: 25.0
+        color: Colors.white, fontSize: 25.0
     ),
     onChanged: callback,
     keyboardType: TextInputType.number,
